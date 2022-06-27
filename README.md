@@ -59,7 +59,7 @@ Mehodologies : OOP(object oriented Programming, Restful API, Agile/Scrum, Functi
 #Complete Project(notepad) = 
 website : https://dreamy-druid-458473.netlify.app/ 
 ![image](https://user-images.githubusercontent.com/107881309/175980816-4acd3e8b-0301-41a8-956f-5efd83eb2ddd.png)
-- 📫 How to reach me ...Email me @Rmkta2022@gmail.com
+- 📫 How to reach me ...Email me imshakya91@gmail.com
 
 <!---
 Indrashakya/Indrashakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
